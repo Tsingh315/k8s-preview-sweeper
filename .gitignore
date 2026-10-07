@@ -1,0 +1,4 @@
+preview-sweeper
+*.test
+*.out
+.DS_Store
